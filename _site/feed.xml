@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graduate Student Association of Neuroscience at McGill University</title>
+    <description>We are the Graduate Student Association of Neuroscience at McGill University.</description>
+    <link>archive.gsaneuro.com/</link>
+    <atom:link href="archive.gsaneuro.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 14 Nov 2015 21:43:10 -0500</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2015 21:43:10 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+  </channel>
+</rss>
