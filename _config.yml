@@ -85,37 +85,40 @@ navigation:
 # The footer section.
 footer:
   sections:
-    - title: Useful Links 1
+    - title: Student Services
       links:
-        - href: https://www.google.com
-          title: Google.com
-        - href: https://www.yahoo.com
-          title: Yahoo.com
+        - href: mcgill.ca/skillsets
+          title: SKILLSETS
+        - href: mcgill.ca/caps
+          title: Career Planning Service (CaPS)
         - href: https://www.msn.com
           title: MSN
-    - title: Useful Links 2
+    - title: Social Media
       links:
-        - href: https://www.google.com
-          title: Google.com
-        - href: https://www.yahoo.com
-          title: Yahoo.com
-        - href: https://www.msn.com
-          title: MSN
-    - title: Useful Links 3
+        - href: twitter.com/McGill_IPN
+          title: IPN on Twitter
+        - href: twitter.com/GSANMcGill
+          title: GSAN on Twitter
+        - href: facebook.com/pages/McGill-University-Integrated-Program-in-Neuroscience/271029572921909
+          title: IPN on Facebook
+        - href: facebook.com/NeuroMontreal/
+          title: MNI on Facebook
+
+    - title: Neuroscience Socieities
       links:
-        - href: https://www.google.com
-          title: Google.com
-        - href: https://www.yahoo.com
-          title: Yahoo.com
-        - href: https://www.msn.com
-          title: MSN
+        - href: braincanada.ca
+          title: Brain Canada
+        - href: www.can-acn.org
+          title: Canadian Association for Neuroscience
+        - href: neuroinflammation.com
+          title: CIHR- Neuroinflammation Training Program
   company_info:
-    title: Our office
-    name: Company Name
-    website: http://companysite.com
+    title: GSAN at McGill
+    name: IPN
+    website: http://www.gsaneuro.com
     phone: 555-123-4567
     address:
       street: 123 Main St.
-      city: Dallas
-      state: TX
-      zip: 75001
+      city: Montreal
+      state: QC
+      zip: H2X
