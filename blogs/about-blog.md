@@ -4,7 +4,7 @@ layout: default
 slug: about
 title: About the Blog
 wordpress_id: 1578
-permalink: /archives/blog/about-blog/
+permalink: /blogs/about-blog/
 ---
 
 ### The GSANeuro Blog invites current GSAN members and alumni to share their thoughts, ideas, and stories about life at the lab and around the city! We also invite GSAN members to share newly published manuscripts.   

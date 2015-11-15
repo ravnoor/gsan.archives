@@ -1,0 +1,15 @@
+---
+author: mcgillgsan
+comments: true
+date: 2015-03-24 00:06:53+00:00
+layout: post
+slug: '2203'
+title: GSAN Fundraiser!
+wordpress_id: 2203
+categories:
+- HOME
+post_format:
+- Image
+---
+
+[![MNI samosa sale_MAR 26](https://gsaneuro.files.wordpress.com/2015/03/mni-samosa-sale_mar-26.jpg?w=292)](https://gsaneuro.files.wordpress.com/2015/03/mni-samosa-sale_mar-26.jpg)

@@ -60,11 +60,11 @@ navigation:
       - title: Blog
         dropdown:
           - title: Home
-            href: /blog/
+            href: /blogs/
           - title: About the Blog
-            href: /blog/about-blog/
+            href: /blogs/about-blog/
           - title: Submit
-            href: /blog/submit/
+            href: /blogs/submit/
       - title: Peer Support
         dropdown:
           - title: Home
@@ -87,30 +87,28 @@ footer:
   sections:
     - title: Student Services
       links:
-        - href: mcgill.ca/skillsets
+        - href: http://mcgill.ca/skillsets
           title: SKILLSETS
-        - href: mcgill.ca/caps
+        - href: http://mcgill.ca/caps
           title: Career Planning Service (CaPS)
-        - href: https://www.msn.com
-          title: MSN
     - title: Social Media
       links:
-        - href: twitter.com/McGill_IPN
+        - href: http://twitter.com/McGill_IPN
           title: IPN on Twitter
-        - href: twitter.com/GSANMcGill
+        - href: http://twitter.com/GSANMcGill
           title: GSAN on Twitter
-        - href: facebook.com/pages/McGill-University-Integrated-Program-in-Neuroscience/271029572921909
+        - href: http://facebook.com/pages/McGill-University-Integrated-Program-in-Neuroscience/271029572921909
           title: IPN on Facebook
-        - href: facebook.com/NeuroMontreal/
+        - href: http://facebook.com/NeuroMontreal/
           title: MNI on Facebook
 
     - title: Neuroscience Socieities
       links:
-        - href: braincanada.ca
+        - href: http://braincanada.ca
           title: Brain Canada
-        - href: www.can-acn.org
+        - href: http://www.can-acn.org
           title: Canadian Association for Neuroscience
-        - href: neuroinflammation.com
+        - href: http://www.neuroinflammation.com
           title: CIHR- Neuroinflammation Training Program
   company_info:
     title: GSAN at McGill
@@ -118,7 +116,7 @@ footer:
     website: http://www.gsaneuro.com
     phone: 555-123-4567
     address:
-      street: 123 Main St.
+      street: 1476 Rue University
       city: Montreal
       state: QC
       zip: H2X

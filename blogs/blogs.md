@@ -4,7 +4,7 @@ layout: default
 slug: blog
 title: GSANeuro Blog
 wordpress_id: 1292
-permalink: /archives/blog/
+permalink: /blogs/
 ---
 
 ## **Share your thoughts, experiences and/or a new publication by becoming a GSANeuro Blogger!**

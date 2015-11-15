@@ -4,7 +4,7 @@ layout: default
 slug: submit-a-neuroblog
 title: Submit a blog post!
 wordpress_id: 2034
-permalink: /archives/blog/submit/
+permalink: /blogs/submit/
 ---
 
 ### Please fill out the form below to submit your blog!
