@@ -4,7 +4,7 @@ layout: default
 slug: social_event_signup
 title: Social
 wordpress_id: 555
-permalink: tau/social/
+permalink: /social/
 ---
 
 ## You are cordially invited to GSAN's Spring Gala!

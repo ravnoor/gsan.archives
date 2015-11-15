@@ -20,61 +20,61 @@ navigation:
       - title: About Us
         dropdown:
           - title: Home
-            href: tau/about-us/
+            href: /about-us/
           - title: 2014-15 Executive Members
-            href: tau/about-us/gsan-executive-2014-2015
+            href: /about-us/gsan-executive-2014-2015
           - title: Constitution
-            href: tau/about-us/constitution/
+            href: /about-us/constitution/
           - title: Finance
-            href: tau/about-us/finance/
+            href: /about-us/finance/
           - title: Contact Us
-            href: tau/about-us/current-committee-members/
+            href: /about-us/current-committee-members/
           - title: Past GSAN Committee
-            href: tau/about-us/past-committee-members/
+            href: /about-us/past-committee-members/
       - title: Academic
         dropdown:
           - title: Home
-            href: tau/academic/
+            href: /academic/
           - title: Research Symposium
-            href: tau/academic/research-symposium/
+            href: /academic/research-symposium/
           - title: French Classes
-            href: tau/academic/french-classes/
+            href: /academic/french-classes/
       - title: Social
         dropdown:
           - title: Home
-            href: tau/social/
+            href: /social/
           - title: Photos of Past Events
-            href: tau/social/gallery/
+            href: /social/gallery/
       - title: Athletics
-        href: tau/athletics/
+        href: /athletics/
       - title: New and International
         dropdown:
           - title: Home
-            href: tau/new-intl/
+            href: /new-intl/
           - title: Welcome
-            href: tau/new-intl/welcome/
+            href: /new-intl/welcome/
           - title: Buddy Program
-            href: tau/new-intl/buddy-program/
+            href: /new-intl/buddy-program/
       - title: NeuroArt
-        href: tau/neuroart/
+        href: /neuroart/
       - title: Blog
         dropdown:
           - title: Home
-            href: tau/blog/
+            href: /blog/
           - title: About the Blog
-            href: tau/blog/about-blog/
+            href: /blog/about-blog/
           - title: Submit
-            href: tau/blog/submit/
+            href: /blog/submit/
       - title: Peer Support
         dropdown:
           - title: Home
-            href: tau/peers/
+            href: /peers/
           - title: Ask for Help
-            href: tau/peers/ask-for-help/
+            href: /peers/ask-for-help/
           - title: Support Resources
-            href: tau/peers/support-resources/
+            href: /peers/support-resources/
           - title: Join the PST
-            href: tau/peers/join/
+            href: /peers/join/
       - title: Back to GSAN
         href: http://axon.gsaneuro.com
 

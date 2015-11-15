@@ -4,7 +4,7 @@ layout: default
 slug: academic
 title: Academic
 wordpress_id: 14
-permalink: tau/academic/
+permalink: /academic/
 ---
 
 ### **GSAN holds a variety of academic events each year, including:**

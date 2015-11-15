@@ -3,7 +3,7 @@ layout: default
 slug: past-events
 title: Photos of past events
 wordpress_id: 136
-permalink: tau/social/gallery/
+permalink: /social/gallery/
 ---
 
 **GSAN Laser Tag 2013**

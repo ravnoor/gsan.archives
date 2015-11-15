@@ -4,7 +4,7 @@ layout: default
 slug: finance
 title: Finance
 wordpress_id: 92
-permalink: tau/about-us/finance/
+permalink: /about-us/finance/
 ---
 
 We plan to maintain good financial stability while not compromising the quality of our events; this will require an emphasis on fundraising including soliciting pharmaceutical and other large companies.

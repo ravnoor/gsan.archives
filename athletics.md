@@ -4,7 +4,7 @@ layout: default
 slug: athletics
 title: Athletics
 wordpress_id: 94
-permalink: tau/athletics/
+permalink: /athletics/
 ---
 
 [![GOCARTING](http://gsaneuro.files.wordpress.com/2012/11/gocarting.jpeg?w=600)](http://gsaneuro.files.wordpress.com/2012/11/gocarting.jpeg)

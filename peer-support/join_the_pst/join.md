@@ -3,7 +3,7 @@ layout: default
 slug: join_the_pst
 title: Join the PST
 wordpress_id: 2123
-permalink: tau/peers/join/
+permalink: /peers/join/
 ---
 
 ### We are looking for leaders to join the IPN Peer Support Team (PST).

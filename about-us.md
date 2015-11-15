@@ -4,7 +4,7 @@ layout: default
 slug: about-us
 title: About Us
 wordpress_id: 71
-permalink: tau/about-us/
+permalink: /about-us/
 ---
 
 We are the Graduate Student Association of Neuroscience at McGill University, representing Graduate and Post-Graduates from one of the largest and most diverse neuroscience research groups in the world.

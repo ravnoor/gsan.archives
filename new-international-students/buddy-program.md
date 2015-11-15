@@ -4,7 +4,7 @@ layout: default
 slug: buddy-program
 title: Buddy Program
 wordpress_id: 98
-permalink: tau/new-intl/buddy-program/
+permalink: /new-intl/buddy-program/
 ---
 
 ### **What is the buddy program?**

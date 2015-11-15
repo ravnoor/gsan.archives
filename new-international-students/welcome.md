@@ -4,7 +4,7 @@ layout: default
 slug: welcome
 title: Welcome
 wordpress_id: 96
-permalink: tau/new-intl/welcome/
+permalink: /new-intl/welcome/
 ---
 
 ## Congratulations on your admission to McGill and welcome to the IPN!

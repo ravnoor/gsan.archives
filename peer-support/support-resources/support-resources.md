@@ -3,7 +3,7 @@ layout: default
 slug: support-resources
 title: Support Resources
 wordpress_id: 2127
-permalink: tau/peers/support-resources/
+permalink: /peers/support-resources/
 ---
 
 ### McGill has many resources available to help with personal and academic problems.

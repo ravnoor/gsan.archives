@@ -5,7 +5,7 @@ layout: default
 slug: neuroart
 title: NeuroArt
 wordpress_id: 2014
-permalink: tau/neuroart/
+permalink: /neuroart/
 ---
 
 [![Screenshot 2015-06-02 20.59.18](https://gsaneuro.files.wordpress.com/2015/02/screenshot-2015-06-02-20-59-18.png?w=800)](https://www.youtube.com/watch?v=pN7Q91nwAfM&feature=youtu.be)

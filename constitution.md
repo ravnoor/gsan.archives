@@ -4,7 +4,7 @@ layout: default
 slug: upcoming-events
 title: Constitution
 wordpress_id: 100
-permalink: tau/about-us/constitution/
+permalink: /about-us/constitution/
 ---
 
 View the most recent version of the GSAN Constitution at this link:

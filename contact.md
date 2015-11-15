@@ -4,7 +4,7 @@ layout: default
 slug: committee-members
 title: Past GSAN Committee
 wordpress_id: 118
-permalink: tau/about-us/past-committee-members/
+permalink: /about-us/past-committee-members/
 ---
 
 # **GSAN Committee 2013-2014**

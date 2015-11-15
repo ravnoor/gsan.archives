@@ -4,7 +4,7 @@ layout: default
 slug: gsan_research_symposium
 title: Research Symposium
 wordpress_id: 849
-permalink: tau/academic/research-symposium
+permalink: /academic/research-symposium
 ---
 
 ## Each spring, GSAN hosts a Research Symposium at McGill!

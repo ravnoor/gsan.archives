@@ -3,7 +3,7 @@ layout: default
 slug: peer-support
 title: Peer Support
 wordpress_id: 1682
-permalink: tau/peers/
+permalink: /peers/
 ---
 
 ### The IPN Peer Support Team (PST) is a joint initiative between members of GSAN, students enrolled in the IPN, and the IPN department. Our aim is to provide support to GSAN members by directing them to the appropriate trained professionals.

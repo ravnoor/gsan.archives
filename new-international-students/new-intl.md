@@ -4,7 +4,7 @@ layout: default
 slug: new-international-students
 title: New & International
 wordpress_id: 68
-permalink: tau/new-intl/
+permalink: /new-intl/
 ---
 
 ### We will be organizing a welcome event for new students entering the IPN in September 2015. If you are an incoming IPN student, you will receive an email about this closer to the fall.

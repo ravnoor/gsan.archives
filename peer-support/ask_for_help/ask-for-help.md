@@ -3,7 +3,7 @@ layout: default
 slug: ask_for_help
 title: Ask for Help
 wordpress_id: 2131
-permalink: tau/peers/ask-for-help/
+permalink: /peers/ask-for-help/
 ---
 
 ### The Peer Support Network offers support related to mental health, personal issues, and academic issues, by directing you to the  appropriate resources and professionals.

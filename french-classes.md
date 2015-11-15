@@ -4,7 +4,7 @@ layout: default
 slug: french-classes
 title: French Classes
 wordpress_id: 2321
-permalink: tau/academic/french-classes/
+permalink: /academic/french-classes/
 ---
 
 ### GSAN is holding FREE French classes! Classes are led by student volunteers from the IPN.
