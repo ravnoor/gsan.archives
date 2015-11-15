@@ -6,6 +6,8 @@ description: We are the Graduate Student Association of Neuroscience at McGill U
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "/"
 copyright: © GSAN
+paginate: 5
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown

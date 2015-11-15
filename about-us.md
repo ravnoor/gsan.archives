@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: about-us
 title: About Us
-wordpress_id: 71
 permalink: /about-us/
 ---
 

@@ -1,8 +1,6 @@
 ---
 layout: default
-slug: past-events
 title: Photos of past events
-wordpress_id: 136
 permalink: /social/gallery/
 ---
 

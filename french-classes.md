@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: french-classes
 title: French Classes
-wordpress_id: 2321
 permalink: /academic/french-classes/
 ---
 

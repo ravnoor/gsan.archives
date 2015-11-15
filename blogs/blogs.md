@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: blog
 title: GSANeuro Blog
-wordpress_id: 1292
 permalink: /blogs/
 ---
 

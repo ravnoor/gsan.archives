@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: gsan-committee-2014-2015
-title: 2015-16  Committee
-wordpress_id: 1055
+title: 2015-16 Committee
 permalink: /about-us/gsan-executive-2014-2015/
 ---
 

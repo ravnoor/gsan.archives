@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: academic
 title: Academic
-wordpress_id: 14
 permalink: /academic/
 ---
 

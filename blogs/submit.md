@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: submit-a-neuroblog
 title: Submit a blog post!
-wordpress_id: 2034
 permalink: /blogs/submit/
 ---
 

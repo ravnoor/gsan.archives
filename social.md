@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: social_event_signup
 title: Social
-wordpress_id: 555
 permalink: /social/
 ---
 

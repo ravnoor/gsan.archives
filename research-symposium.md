@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: gsan_research_symposium
 title: Research Symposium
-wordpress_id: 849
 permalink: /academic/research-symposium/
 ---
 

@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: committee-members
 title: Past GSAN Committee
-wordpress_id: 118
 permalink: /about-us/current-committee-members/
 ---
 

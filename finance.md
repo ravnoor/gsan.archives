@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: finance
 title: Finance
-wordpress_id: 92
 permalink: /about-us/finance/
 ---
 

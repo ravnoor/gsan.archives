@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: upcoming-events
 title: Constitution
-wordpress_id: 100
 permalink: /about-us/constitution/
 ---
 

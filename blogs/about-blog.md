@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: about
 title: About the Blog
-wordpress_id: 1578
 permalink: /blogs/about-blog/
 ---
 

@@ -1,10 +1,6 @@
 ---
-comments: true
-date: 2015-02-24 20:41:14+00:00
 layout: default
-slug: neuroart
 title: NeuroArt
-wordpress_id: 2014
 permalink: /neuroart/
 ---
 

@@ -1,9 +1,6 @@
 ---
-comments: true
 layout: default
-slug: athletics
 title: Athletics
-wordpress_id: 94
 permalink: /athletics/
 ---
 

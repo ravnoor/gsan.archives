@@ -1,0 +1,17 @@
+---
+layout: default
+title: Blog Archive
+---
+
+<div class="row">
+  <div class="span8">
+		<div class="post prepend-1">
+		  <h1>Posts since eternity</h1>
+		  <ul class="archives">
+		{% for post in site.posts limit: 200 %}
+		  <li><span><b>{{ post.date | date_to_string }}</b></span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+		  </ul>
+		</div>
+	</div>
+</div>
