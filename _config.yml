@@ -4,7 +4,7 @@ brand: GSAN archives
 email: gsan.mcgill@gmail.com
 description: We are the Graduate Student Association of Neuroscience at McGill University.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: ""
+url: "/"
 copyright: © GSAN
 
 # Build settings
