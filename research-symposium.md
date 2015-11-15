@@ -82,5 +82,3 @@ _________________
 #### Neurodevelopment & Systems Neuroscience Category:
 
 Ian Mahar
-
-__________________
