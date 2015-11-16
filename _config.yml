@@ -8,6 +8,7 @@ url: "/"
 copyright: © GSAN
 paginate: 5
 gems: [jekyll-paginate]
+paginate_path: "/pages/p:num/"
 
 # Build settings
 markdown: kramdown
